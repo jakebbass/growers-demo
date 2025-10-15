@@ -1,0 +1,15 @@
+{
+  "name": "Green Valley Ag Crop Plan",
+  "short_name": "Crop Plan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "/green-valley-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "120x120"
+    }
+  ]
+}
