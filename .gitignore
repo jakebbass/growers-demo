@@ -4,3 +4,7 @@ out
 .env.local
 npm-debug.log*
 .DS_Store
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
